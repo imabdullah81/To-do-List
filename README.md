@@ -10,7 +10,7 @@ A simple to-do list app built with HTML, CSS, and JavaScript.
 ![screenshot](images/Showcase.png)
 
 ## Live Preview
-[Live Site](https://AliDev.github.io/todo-list/)
+[Live Site](https://imabdullah81.github.io/To-do-List/)
 
 
 
