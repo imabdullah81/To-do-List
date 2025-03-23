@@ -9,5 +9,4 @@ A simple to-do list app built with HTML, CSS, and JavaScript.
 ## Demo
 ![screenshot](images/Showcase.png)
 
-## Live Preview
-[Live Site](https://yourusername.github.io/todo-list/)
+
